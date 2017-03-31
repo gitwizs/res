@@ -16,6 +16,9 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "engines": {
+    "node": "6.9.1"
+ },
   "dependencies": {
     "@angular/common": "~2.4.0",
     "@angular/compiler": "~2.4.0",
@@ -53,4 +56,5 @@
     "@types/jasmine": "^2.5.36"
   },
   "repository": {}
+  
 }
